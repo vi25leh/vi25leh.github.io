@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-Hi everyone! My name is Elaine Benes and currently I am working as the chief editor for J. Peterman Catalogue. I graduated with French literature as my major and since then I have been working in the fields of copy writing and personal assistance. I like Jujyfruit-candies, dancing at the office Christmas party and taking IQ tests for my friends.
+Hi everyone! My name is Elaine Benes and currently I am working as the chief editor for The J. Peterman Catalogue. I graduated with French literature as my major from Tufts University, and since then I have been working in the fields of copy writing and personal assistance. I like Jujyfruit-candies, dancing at office Christmas parties and taking IQ tests for my friends.
 
 ## Find me on
 
