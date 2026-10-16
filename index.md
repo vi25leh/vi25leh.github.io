@@ -16,7 +16,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Courses I've Taken
 
-[Introduction to Ordering Soup](https://courses.helsinki.fi/introduction-to-ordering-soup), spring 1996
+[Introduction to Ordering Soup](https://studies.helsinki.fi/courses/course-unit/otm-3f2a80e8-e4ac-4326-8a62-0272b87dadf0), spring 1996
 
 [Littérature II](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-856d6936-e111-43b1-9b14-d84092047ef4), fall 1981
 
