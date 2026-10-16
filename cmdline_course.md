@@ -135,7 +135,7 @@ Process of transferring changes made locally into the global repository in GitHu
 1. $ git add nameofthemodifiedfile.md
 2. $ git status
 3. $ git commit -m 'comment on the changes made'
-4. git push
+4. $ git push
 ````
 
 ### Reflection
