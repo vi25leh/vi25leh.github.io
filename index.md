@@ -32,9 +32,7 @@ This webpage I created as the final project of the Commandline Course as a way o
 
 ## CV
 
-[My CV](https://www.overleaf.com/project/6ad1d51ae64848931665c476/share#b93db4b467bfd5e909d7c0fe035860a66d66e9fdaeaaa195)
-
-<a href="assets/documents/Elaine_Benes_CV.pdf">My CV in pdf</a>
+<a href="assets/documents/Elaine_Benes_CV.pdf">My CV</a>
 
 ## Misc. 
 
