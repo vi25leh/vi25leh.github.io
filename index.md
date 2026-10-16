@@ -30,6 +30,10 @@ I have worked as a copy writer, editor and chief editor for The J. Peterman Cata
 
 This webpage I created as the final project of the Commandline Course as a way of demonstrating the knowledge I've acquired.
 
+## CV
+
+[My CV](Elaine_Benes_CV.pdf)
+
 ## Misc. 
 
 [Also appeared on...](https://www.imdb.com/title/tt0098904/)
