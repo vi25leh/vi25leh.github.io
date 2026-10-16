@@ -10,10 +10,10 @@ The methods learned on this course can be very useful for linguists who use tech
 
 #### Contents of the course
 
-| *Module*        | *Themes*    |
+| *MODULE*      | *THEMES*    |
 | ------------- |:-------------:|
-| Module 1| setting up the command-line, basic commands for directories and text files |
-| Module 2      | encoding systems, text file operations, regular expressions, piping for combining commands    |
+| Module 1 | setting up the command-line, basic commands for directories and text files |
+| Module 2 | encoding systems, text file operations, regular expressions, piping for combining commands    |
 | Module 3 | scripting, modifications to .bshrc-file, becoming the root user, installing software and python packages      |
 | Module 4 | remote servers, GitHub and version control, GitHub pages |
 
